@@ -1,11 +1,10 @@
 import requests
 import pandas as pd
 import pyarrow as pa
+from datetime import datetime, timedelta
 
 from deltalake import write_deltalake, DeltaTable
 from deltalake.exceptions import TableNotFoundError
-
-from datetime import datetime, timedelta
 
 
 
@@ -153,4 +152,12 @@ def read_most_recent_partition(data_path):
         )
         return df_recent
     except Exception as e:
-        raise Exception(f"No se pudo procesar la tabla Delta Lake, por {e}")   
+        raise Exception(f"No se pudo procesar la tabla Delta Lake, por {e}")
+    
+
+def read_all_from_delta(path):
+    """
+    Lee todas las particiones de una tabla Delta Lake
+    y devuelve un DataFrame de Pandas.
+    """
+    return DeltaTable(path).to_pandas()
