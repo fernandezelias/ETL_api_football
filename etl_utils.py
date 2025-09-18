@@ -1,8 +1,10 @@
+# Librerías estándar
+from datetime import datetime, timedelta
+
+# Librerías externas
 import requests
 import pandas as pd
 import pyarrow as pa
-from datetime import datetime, timedelta
-
 from deltalake import write_deltalake, DeltaTable
 from deltalake.exceptions import TableNotFoundError
 
@@ -161,3 +163,43 @@ def read_all_from_delta(path):
     y devuelve un DataFrame de Pandas.
     """
     return DeltaTable(path).to_pandas()
+
+
+def recast_for_gold(df):
+    """
+    Reaplica tipos tras leer desde Delta (Parquet -> Pandas).
+    - Numéricas -> Int64 (nullable)
+    - Categóricas -> category
+    - Fechas -> datetime (UTC)
+    """
+    df = df.copy()
+
+    # Numéricas (ajusta si faltara alguna)
+    num_cols = [
+        "fixture_venue_id", "fixture_status_elapsed",
+        "goals_home", "goals_away",
+        "score_halftime_home", "score_halftime_away",
+        "score_fulltime_home", "score_fulltime_away",
+        "score_extratime_home", "score_extratime_away",
+        "score_penalty_home", "score_penalty_away",
+    ]
+    for c in num_cols:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce").astype("Int64")
+
+    # Categóricas (solo si existen)
+    cat_cols = [
+        "fixture_venue_name", "fixture_venue_city", "fixture_status_short",
+        "league_name", "league_country", "league_round",
+        "teams_home_name", "teams_away_name",
+        "match_winner",
+    ]
+    for c in cat_cols:
+        if c in df.columns:
+            df[c] = df[c].astype("category")
+
+    # Fecha
+    if "event_date" in df.columns:
+        df["event_date"] = pd.to_datetime(df["event_date"], utc=True, errors="coerce")
+
+    return df
