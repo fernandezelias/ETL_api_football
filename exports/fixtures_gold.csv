@@ -1,300 +1,452 @@
 fixture_id,event_date,league_id,league_name,teams_home_name,teams_away_name,goals_home,goals_away,match_winner
-1371792,2025-09-17,667,Friendlies Clubs,San Diego,Club Tijuana,4.0,2.0,Home
-1469775,2025-09-17,709,Cup,Mika,Sardarapat,1.0,2.0,Away
-1469805,2025-09-17,335,Cup,Stavky,Shakhtar Donetsk,0.0,1.0,Away
-1423296,2025-09-17,371,First League,Tikveš,Shkupi 1927,1.0,0.0,Home
-1422531,2025-09-17,178,Third League - Southwest,Levski Sofia II,Pirin Gotse Delchev,3.0,1.0,Home
-1393326,2025-09-17,211,First NL,Orijent 1919,Sesvete,1.0,1.0,Draw
-1402749,2025-09-17,237,Cup,Krylia Sovetov,FC Krasnodar,1.0,2.0,Away
-1431527,2025-09-17,435,Primera División RFEF - Group 1,Real Madrid II,Racing Ferrol,0.0,1.0,Away
-1469549,2025-09-17,1191,UEFA Europa Cup - Women,Kolos Kovalivka W,Vllaznia,0.0,2.0,Away
-1394107,2025-09-17,80,3. Liga,Rot-Weiß Essen,VfL Osnabrück,1.0,1.0,Draw
-1452025,2025-09-17,281,Primera División,Sporting Cristal,Alianza Atletico,0.0,0.0,Draw
-1469272,2025-09-17,735,Copa Federacion,Bergantiños,Estradense,2.0,1.0,Home
-1436638,2025-09-17,163,Liga de Ascenso,Deportivo Upala,Santa Cruz FC,3.0,0.0,Home
-1392888,2025-09-17,162,Primera División,Guadalupe FC,Municipal Liberia,2.0,2.0,Draw
-1470120,2025-09-17,1158,Copa Gaúcha,Brasil DE Pelotas,Gaúcho,0.0,0.0,Draw
-1446939,2025-09-17,11,CONMEBOL Sudamericana,Lanus,Fluminense,1.0,0.0,Home
-1469794,2025-09-17,335,Cup,Metal Kharkiv,LNZ Cherkasy,0.0,2.0,Away
-1467106,2025-09-17,206,Cup,Karadeniz Ereğli BSK,Bursaspor,1.0,2.0,Away
-1409768,2025-09-17,87,Regionalliga - West,Köln II,Borussia M'gladbach II,2.0,1.0,Home
-1468313,2025-09-17,206,Cup,Çorluspor 1947,Ayvalıkgücü Belediyespor,2.0,1.0,Home
-1444625,2025-09-17,664,Superliga,Drita,Drenica Skënderaj,0.0,1.0,Away
-1453528,2025-09-17,199,Cup,OFI,Kavala,3.0,0.0,Home
-1453531,2025-09-17,199,Cup,Egaleo,AEK Athens FC,0.0,1.0,Away
-1395867,2025-09-17,109,II Liga - East,Hutnik Kraków,Jastrzębie,3.0,0.0,Home
-1449622,2025-09-17,291,Azadegan League,Ario Eslamshahr,Mes Shahr-e Babak,0.0,0.0,Draw
-1348823,2025-09-17,329,Meistriliiga,Laagri,Kuressaare,2.0,1.0,Home
-1415814,2025-09-17,202,Ligue 1,CA Bizertin,AS Gabes,3.0,0.0,Home
-1450040,2025-09-17,212,Cup,Graničar Kotoriba,NK Slaven Belupo,0.0,5.0,Away
-1469266,2025-09-17,735,Copa Federacion,Deportiva Minera,Unión Molinense,3.0,0.0,Home
-1394104,2025-09-17,80,3. Liga,Energie Cottbus,Erzgebirge Aue,2.0,1.0,Home
-1394437,2025-09-17,203,Süper Lig,Fatih Karagümrük,Istanbul Basaksehir,0.0,2.0,Away
-1400680,2025-09-17,355,First League,Dečić,Sutjeska,3.0,1.0,Home
-1421780,2025-09-17,220,Cup,Oberwart,Rapid Vienna,1.0,2.0,Away
-1469879,2025-09-17,111,FAW Championship,Caerau (Ely),Baglan Dragons,2.0,1.0,Home
-1469155,2025-09-17,14,UEFA Youth League,Haverfordwest U19,Budućnost U19,2.0,3.0,Away
-1469016,2025-09-17,344,Primera División,ABB,Gualberto Villarroel SJ,0.0,0.0,Draw
-1436637,2025-09-17,163,Liga de Ascenso,AD Sarchí,Turrialba Fc,,,
-1466782,2025-09-17,241,Copa Colombia,Santa Fe,Independiente Medellin,,,
-1445439,2025-09-17,243,Liga Pro Serie B,San Antonio,Leones del Norte,1.0,1.0,Draw
-1326920,2025-09-17,489,USL League One,Richmond Kickers,Portland Hearts of Pine,2.0,5.0,Away
-1449724,2025-09-17,241,Copa Colombia,Millonarios,Envigado,0.0,0.0,Draw
-1470022,2025-09-17,567,Ligi kuu Bara,KMC,Dodoma Jiji,1.0,0.0,Home
-1388943,2025-09-17,315,Premijer Liga,Zrinjski,Sloga Doboj,3.0,0.0,Home
-1422534,2025-09-17,178,Third League - Southwest,Septemvri Sofia II,Balkan Botevgrad,,,
-1415817,2025-09-17,202,Ligue 1,Jeunesse Sportive Omrane,Club Africain,0.0,3.0,Away
-1469796,2025-09-17,335,Cup,Oleksandria,Dynamo Kyiv,1.0,2.0,Away
-1470007,2025-09-17,105,NM Cupen,Kongsvinger,KFUM Oslo,1.0,3.0,Away
-1424057,2025-09-17,288,Premier Soccer League,Marumo Gallants,Mamelodi Sundowns,1.0,1.0,Draw
-1353865,2025-09-17,906,Reserve League,Vélez Sársfield Res.,Atlético Tucumán Res.,1.0,1.0,Draw
-1431067,2025-09-17,1146,Alagoano - 2,Zumbi,Aliança AL,2.0,1.0,Home
-1451030,2025-09-17,2,UEFA Champions League,Liverpool,Atletico Madrid,3.0,2.0,Home
-1469014,2025-09-17,344,Primera División,The Strongest,Independiente Petrolero,,,
-1438569,2025-09-17,18,AFC Cup,Gamba Osaka,Eastern,3.0,1.0,Home
-1467107,2025-09-17,206,Cup,Dersimspor,Şanlıurfaspor,2.0,0.0,Home
-1467108,2025-09-17,206,Cup,Muş Menderesspor,Mazıdağı Fosfatspor,5.0,0.0,Home
-1467112,2025-09-17,206,Cup,Somaspor,Çankaya FK,1.0,3.0,Away
-1467113,2025-09-17,206,Cup,Kastamonuspor 1966,Fatsa Belediyespor,3.0,3.0,Draw
-1438570,2025-09-17,18,AFC Cup,Nam Dinh,Ratchaburi,3.0,1.0,Home
-1438928,2025-09-17,17,AFC Champions League,SHANGHAI SIPG,Vissel Kobe,0.0,3.0,Away
-1469212,2025-09-17,1157,Paraense U20,Paysandu PA U20,Remo U20,1.0,0.0,Home
-1401414,2025-09-17,395,Liga 1,Sireți,Oguzsport,4.0,1.0,Home
-1468343,2025-09-17,962,Premier League,Maroala,LDF,0.0,2.0,Away
-1410527,2025-09-17,781,III Liga - Group 2,Lech Poznań II,Noteć Czarnków,0.0,2.0,Away
-1449621,2025-09-17,291,Azadegan League,Saipa,Niroye Zamini,1.0,0.0,Home
-1393323,2025-09-17,211,First NL,Dugopolje,Hrvace,2.0,0.0,Home
-1415815,2025-09-17,202,Ligue 1,CS Sfaxien,US Ben Guerdane,2.0,1.0,Home
-1400679,2025-09-17,355,First League,Arsenal Tivat,Bokelj,2.0,1.0,Home
-1467126,2025-09-17,206,Cup,24 Erzincanspor,1926 Bulancak,0.0,2.0,Away
-1394458,2025-09-17,203,Süper Lig,Samsunspor,Kasimpasa,0.0,0.0,Draw
-1402748,2025-09-17,237,Cup,FC Sochi,Dynamo,0.0,4.0,Away
-1469963,2025-09-17,761,Cup,Triesen II,Balzers,0.0,4.0,Away
-1382458,2025-09-17,144,Jupiler Pro League,Genk,Charleroi,0.0,1.0,Away
-1469552,2025-09-17,1191,UEFA Europa Cup - Women,Athlone WFC W,Glasgow City W,0.0,3.0,Away
-1452823,2025-09-17,1080,Premier Division,St. John's,Shamrock,,,
-1437442,2025-09-17,257,US Open Cup,Nashville SC,Philadelphia Union,3.0,1.0,Home
-1469782,2025-09-17,17,AFC Champions League,Ulsan Hyundai FC,Chengdu Better City,2.0,1.0,Home
-1469055,2025-09-17,14,UEFA Youth League,Jindřichův Hradec,Bodø / Glimt U19,5.0,0.0,Home
-1467109,2025-09-17,206,Cup,Yeşilyurt Belediyespor,Adana 1954 FK,3.0,2.0,Home
-1469152,2025-09-17,14,UEFA Youth League,FS Jelgava U19,Akureyri U19,2.0,2.0,Draw
-1469059,2025-09-17,14,UEFA Youth League,Bayern München U19,Chelsea U19,2.0,3.0,Away
-1449816,2025-09-17,661,Cup,Džiugas Telšiai,Hegelmann Litauen,1.0,2.0,Away
-1438573,2025-09-17,18,AFC Cup,Al-Wasl FC,Esteghlal FC,7.0,1.0,Home
-1348826,2025-09-17,329,Meistriliiga,Tallinna Kalev,Paide,0.0,3.0,Away
-1394109,2025-09-17,80,3. Liga,Havelse,FC Ingolstadt 04,2.0,6.0,Away
-1418818,2025-09-17,233,Premier League,AL Masry,Ghazl El Mehalla,2.0,1.0,Home
-1373884,2025-09-17,1128,Brasileiro U17,RB Bragantino U17,Fortaleza U17,2.0,0.0,Home
-1469551,2025-09-17,1191,UEFA Europa Cup - Women,Hibernian W,Inter Milano W,0.0,1.0,Away
-1469185,2025-09-17,45,FA Cup,Frome Town,Shaftesbury Town,1.0,1.0,Draw
-1469186,2025-09-17,45,FA Cup,Woodford Town,Bury Town,1.0,0.0,Home
-1446940,2025-09-17,11,CONMEBOL Sudamericana,Bolívar,Atletico-MG,2.0,2.0,Draw
-1451632,2025-09-17,1136,CONCACAF W Champions Cup,Chorrillo FC,Orlando Pride W,0.0,5.0,Away
-1390702,2025-09-17,339,Liga Nacional,Comunicaciones,Malacateco,1.0,0.0,Home
-1449620,2025-09-17,291,Azadegan League,Fard Alborz,Mes Soongoun,2.0,0.0,Home
-1422538,2025-09-17,178,Third League - Southwest,Kyustendil,Strumska Slava,3.0,0.0,Home
-1450814,2025-09-17,291,Azadegan League,Mes Kerman,Be'sat Kermanshah,1.0,0.0,Home
-1468315,2025-09-17,206,Cup,Elazığspor,12 Bingölspor,2.0,3.0,Away
-1467123,2025-09-17,206,Cup,Karşıyaka,Bursa Yıldırımspor,0.0,1.0,Away
-1440163,2025-09-17,306,Second Division,Lusail City,Muaither SC,2.0,0.0,Home
-1469860,2025-09-17,14,UEFA Youth League,Zrinjski U19,Dinamo Tbilisi U19,1.0,1.0,Draw
-1393442,2025-09-17,393,Premier League,Marsaxlokk,Gzira United,2.0,0.0,Home
-1382313,2025-09-17,207,Super League,FC Sion,Servette FC,0.0,2.0,Away
-1457837,2025-09-17,115,Svenska Cupen,Olympic,Malmo FF,0.0,1.0,Away
-1395869,2025-09-17,109,II Liga - East,Olimpia Grudziądz,Podbeskidzie,2.0,1.0,Home
-1409772,2025-09-17,87,Regionalliga - West,Paderborn II,Wuppertaler SV,6.0,1.0,Home
-1373891,2025-09-17,1128,Brasileiro U17,Juventude U17,Corinthians U17,0.0,1.0,Away
-1453409,2025-09-17,1125,Pernambucano - 2,Porto,Acadêmica Vitória,0.0,0.0,Draw
-1438838,2025-09-17,856,CONCACAF Caribbean Club Championship,Central,Moca,2.0,0.0,Home
-1353514,2025-09-17,72,Serie B,Chapecoense-sc,Atletico Paranaense,2.0,3.0,Away
-1392886,2025-09-17,162,Primera División,LD Alajuelense,San Carlos,2.0,0.0,Home
-1469060,2025-09-17,14,UEFA Youth League,Olympiakos Piraeus U19,Pafos U19,4.0,0.0,Home
-1393322,2025-09-17,211,First NL,Dubrava Zagreb,Bsk Bijelo Brdo,1.0,0.0,Home
-1415403,2025-09-17,310,Superliga,Teuta Durrës,Dinamo Tirana,1.0,0.0,Home
-1453525,2025-09-17,199,Cup,Atromitos,Ellas Syros,4.0,2.0,Home
-1435826,2025-09-17,566,Ligue A,Royal Vision,Musongati,4.0,1.0,Home
-1438571,2025-09-17,18,AFC Cup,Arkadag,Andijan,0.0,0.0,Draw
-1469058,2025-09-17,14,UEFA Youth League,Liverpool U19,Atlético Madrid U19,0.0,0.0,Draw
-1415821,2025-09-17,202,Ligue 1,ES Zarzis,US Monastirienne,0.0,1.0,Away
-1453532,2025-09-17,199,Cup,Panathinaikos,Kallithea,1.0,0.0,Home
-1469548,2025-09-17,1191,UEFA Europa Cup - Women,KuPS W,Nordsjælland,1.0,5.0,Away
-1469267,2025-09-17,735,Copa Federacion,Terrassa,Ejea,0.0,1.0,Away
-1393325,2025-09-17,211,First NL,Karlovac 1919,Rudes,4.0,1.0,Home
-1469962,2025-09-17,761,Cup,Triesenberg II,FC Vaduz,0.0,12.0,Away
-1438717,2025-09-17,130,Copa Argentina,Newells Old Boys,Belgrano Cordoba,1.0,3.0,Away
-1353858,2025-09-17,906,Reserve League,Central Córdoba SdE Res.,Tigre Res.,1.0,1.0,Draw
-1469015,2025-09-17,344,Primera División,Jorge Wilstermann,Nacional Potosí,2.0,5.0,Away
-1467110,2025-09-17,206,Cup,Kahramanmaraşspor,Karaman Belediyespor,1.0,0.0,Home
-1467121,2025-09-17,206,Cup,Kepez Belediyespor,Denizli İYG,0.0,0.0,Draw
-1445974,2025-09-17,400,Super League,ZESCO United,Red Arrows,,,
-1454013,2025-09-17,427,Serie D - Girone B,Milan II,Leon,2.0,2.0,Draw
-1423295,2025-09-17,371,First League,Struga,Shkendija,1.0,1.0,Draw
-1438572,2025-09-17,18,AFC Cup,Goa,Al Zawra'a,0.0,2.0,Away
-1423844,2025-09-17,701,Liga Revelação U23,Gil Vicente U23,Sporting Braga U23,2.0,1.0,Home
-1453527,2025-09-17,199,Cup,Marko,Larisa,2.0,2.0,Draw
-1348824,2025-09-17,329,Meistriliiga,FC Levadia Tallinn,Flora Tallinn,1.0,3.0,Away
-1457265,2025-09-17,121,DBU Pokalen,Lyseng,Roskilde,4.0,3.0,Home
-1394105,2025-09-17,80,3. Liga,Hansa Rostock,TSV 1860 München,2.0,1.0,Home
-1394106,2025-09-17,80,3. Liga,Waldhof Mannheim,Stuttgart II,0.0,1.0,Away
-1418819,2025-09-17,233,Premier League,El Gouna FC,Petrojet,1.0,1.0,Draw
-1470026,2025-09-17,1191,UEFA Europa Cup - Women,Anderlecht W,Aris W,9.0,0.0,Home
-1402746,2025-09-17,237,Cup,Zenit,Akhmat,2.0,1.0,Home
-1409769,2025-09-17,87,Regionalliga - West,SV Rodinghausen,Fortuna Düsseldorf II,3.0,0.0,Home
-1380911,2025-09-17,88,Eredivisie,Feyenoord,Fortuna Sittard,2.0,0.0,Home
-1416623,2025-09-17,487,First Amateur Division,Spouwen-Mopertingen,Oud-Heverlee Leuven II,2.0,1.0,Home
-1423429,2025-09-17,906,Reserve League,Racing Club Res.,Colón Res.,1.0,0.0,Home
-1469268,2025-09-17,735,Copa Federacion,Toledo,CD Coria,1.0,0.0,Home
-1469269,2025-09-17,735,Copa Federacion,Atlètic Lleida,Formentera,6.0,1.0,Home
-1436636,2025-09-17,163,Liga de Ascenso,Quepos Cambute,ADR Jicaral,,,
-1470044,2025-09-17,1148,Maranhense - 2,Balsas,ITZ Sport,1.0,1.0,Draw
-1449575,2025-09-17,1037,Paraibano 2,Guarabira,Confianca PB,0.0,0.0,Draw
-1449619,2025-09-17,291,Azadegan League,Shahrdari Noshahr,Nassaji Mazandaran,0.0,1.0,Away
-1469056,2025-09-17,14,UEFA Youth League,PSG U19,Atalanta U19,5.0,1.0,Home
-1453408,2025-09-17,1125,Pernambucano - 2,Vera Cruz,Centro Limoeirense,1.0,1.0,Draw
-1410493,2025-09-17,781,III Liga - Group 2,Wybrzeże Rewalskie Rewal,Cartusia Kartuzy,0.0,1.0,Away
-1422536,2025-09-17,178,Third League - Southwest,Oborishte,Vitosha Bistritsa,1.0,1.0,Draw
-1469153,2025-09-17,14,UEFA Youth League,Naxxar U19,Lincoln Red Imps U19,0.0,2.0,Away
-1407522,2025-09-17,85,Regionalliga - Nordost,BFC Preussen,Hertha BSC II,0.0,0.0,Draw
-1444641,2025-09-17,658,Cup,Rīgas FS,Auda,0.0,2.0,Away
-1400677,2025-09-17,355,First League,Mladost DG,Jezero,0.0,1.0,Away
-1453644,2025-09-17,121,DBU Pokalen,Kolding B,Silkeborg,0.0,5.0,Away
-1451026,2025-09-17,2,UEFA Champions League,Olympiakos Piraeus,Pafos,0.0,0.0,Draw
-1409775,2025-09-17,87,Regionalliga - West,Sportfreunde Siegen,Sportfreunde Lotte,0.0,0.0,Draw
-1424060,2025-09-17,288,Premier Soccer League,Amazulu,Stellenbosch,2.0,1.0,Home
-1424061,2025-09-17,288,Premier Soccer League,Richards Bay,TS Galaxy,1.0,1.0,Draw
-1353864,2025-09-17,906,Reserve League,Platense Res.,San Martín San Juan Res.,1.0,0.0,Home
-1393505,2025-09-17,261,National Division,FC Differdange 03,Racing FC Union Luxembourg,,,
-1431071,2025-09-17,1146,Alagoano - 2,Guarany Alagoano,Cruzeiro Arapiraca,1.0,0.0,Home
-1453410,2025-09-17,1125,Pernambucano - 2,Ypiranga PE,Aguia FC,1.0,0.0,Home
-1469273,2025-09-17,735,Copa Federacion,Ourense CF,Zamora,2.0,1.0,Home
-1469277,2025-09-17,355,First League,Mornar,Buducnost Podgorica,1.0,1.0,Draw
-1470029,2025-09-17,1148,Maranhense - 2,Expressinho,Tupan,1.0,4.0,Away
-1463488,2025-09-17,234,Liga Nacional,Platense FC,CD Motagua,1.0,2.0,Away
-1469013,2025-09-17,344,Primera División,Real Oruro,Aurora,5.0,3.0,Home
-1453524,2025-09-17,199,Cup,Panetolikos,Aris Thessalonikis,0.0,1.0,Away
-1466854,2025-09-17,418,Birinci Dasta,Cəbrayıl,Mingəçevir,1.0,3.0,Away
-1469795,2025-09-17,335,Cup,Livyi Bereh,Viktoriya Mykolaivka,0.0,1.0,Away
-1422533,2025-09-17,178,Third League - Southwest,CSKA Sofia III,Botev Ihtiman,1.0,2.0,Away
-1393321,2025-09-17,211,First NL,Croatia Zmijavci,HNK Cibalia,0.0,1.0,Away
-1384662,2025-09-17,345,Czech Liga,Baník Ostrava,Teplice,1.0,1.0,Draw
-1437300,2025-09-17,308,Division 1,Al Ula,Al Bukayriyah,3.0,0.0,Home
-1440161,2025-09-17,306,Second Division,Al-Markhiya,Al Kharaitiyat,2.0,1.0,Home
-1440164,2025-09-17,306,Second Division,Al Bidda SC,Al Mesaimeer,2.0,1.0,Home
-1449805,2025-09-17,737,Svenska Cupen - Women,Sollentuna W,Hammarby,0.0,5.0,Away
-1409767,2025-09-17,87,Regionalliga - West,SSVg Velbert,Bonner SC,0.0,0.0,Draw
-1424062,2025-09-17,288,Premier Soccer League,Polokwane City,Golden Arrows,2.0,1.0,Home
-1469960,2025-09-17,761,Cup,Balzers II,Eschen / Mauren II,0.0,4.0,Away
-1451029,2025-09-17,2,UEFA Champions League,Paris Saint Germain,Atalanta,4.0,0.0,Home
-1457271,2025-09-17,48,League Cup,Swansea,Nottingham Forest,3.0,2.0,Home
-1452024,2025-09-17,281,Primera División,Comerciantes Unidos,Sport Huancayo,2.0,0.0,Home
-1446485,2025-09-17,396,Primera Division,H&H Export,Real Estelí,3.0,1.0,Home
-1339385,2025-09-17,254,NWSL Women,Seattle Reign FC,Racing Louisville W,1.0,0.0,Home
-1469793,2025-09-17,335,Cup,Chernihiv,Kryvbas KR,1.0,1.0,Draw
-1429056,2025-09-17,676,Central Youth League,Legia Warszawa U19,Escola Varsovia U19,6.0,0.0,Home
-1469809,2025-09-17,1114,Carioca U20,Flamengo U20,Nova Iguaçu U20,1.0,0.0,Home
-1422537,2025-09-17,178,Third League - Southwest,Kostinbrod,Rilski Sportist,1.0,2.0,Away
-1427271,2025-09-17,175,Third League - Northeast,Spartak Varna II,Ludogorets III,1.0,2.0,Away
-1450034,2025-09-17,212,Cup,Maksimir Zagreb,HNK Rijeka,0.0,4.0,Away
-1470025,2025-09-17,1191,UEFA Europa Cup - Women,Spartak Subotica,Partizani,3.0,0.0,Home
-1439001,2025-09-17,138,Serie C - Girone A,Virtus Verona,Inter U23,1.0,2.0,Away
-1450980,2025-09-17,330,Premier League,Al Fahaheel,Al Arabi,0.0,3.0,Away
-1469961,2025-09-17,761,Cup,Schaan,Ruggell,1.0,4.0,Away
-1438575,2025-09-17,18,AFC Cup,Muharraq,Al Wihdat,4.0,0.0,Home
-1469861,2025-09-17,14,UEFA Youth League,Shelbourne U19,Rabotnički U19,5.0,0.0,Home
-1326580,2025-09-17,253,Major League Soccer,New York City FC,Columbus Crew,3.0,2.0,Home
-1438804,2025-09-17,1136,CONCACAF W Champions Cup,Vancouver Whitecaps W,NJ/NY Gotham FC W,,,
-1453529,2025-09-17,199,Cup,Kifisia,Asteras Tripolis,1.0,1.0,Draw
-1415964,2025-09-17,400,Super League,Nchanga Rangers,Power Dynamos,,,
-1468090,2025-09-17,400,Super League,Prison Leopards,Mutondo Stars,,,
-1469859,2025-09-17,14,UEFA Youth League,Be1 U19,HJK U19,1.0,1.0,Draw
-1389791,2025-09-17,382,Liga Leumit,Hapoel Ramat Gan,Maccabi Petah Tikva,0.0,3.0,Away
-1437301,2025-09-17,308,Division 1,Al Orubah,Al Taee,2.0,1.0,Home
-1327251,2025-09-17,255,USL Championship,Birmingham Legion,Tampa Bay Rowdies,1.0,4.0,Away
-1440162,2025-09-17,306,Second Division,Al-Khor,Al Waab,1.0,1.0,Draw
-1451027,2025-09-17,2,UEFA Champions League,Slavia Praha,Bodo/Glimt,2.0,2.0,Draw
-1437302,2025-09-17,308,Division 1,Al Draih,Al-Adalah,3.0,1.0,Home
-1469270,2025-09-17,735,Copa Federacion,Varea,SS Reyes,1.0,2.0,Away
-1469271,2025-09-17,735,Copa Federacion,Orihuela,Huétor Tájar,3.0,0.0,Home
-1470148,2025-09-17,1158,Copa Gaúcha,São Gabriel,Esportivo,0.0,2.0,Away
-1444050,2025-09-17,57,Non League Div One - Isthmian South East,Sevenoaks Town,Merstham,1.0,4.0,Away
-1451028,2025-09-17,2,UEFA Champions League,Ajax,Inter,0.0,2.0,Away
-1469278,2025-09-17,165,1. Deild,HK Kopavogur,Throttur Reykjavik,4.0,3.0,Home
-1466353,2025-09-17,1113,Copa Venezuela,Monagas SC,Carabobo FC,1.0,1.0,Draw
-1410223,2025-09-17,780,III Liga - Group 1,Wisła Płock II,Legia Warszawa II,1.0,2.0,Away
-1467117,2025-09-17,206,Cup,Silivrispor,Halide Edip Adıvar,1.0,1.0,Draw
-1467119,2025-09-17,206,Cup,Galata,Tuzlaspor,1.0,5.0,Away
-1469547,2025-09-17,1191,UEFA Europa Cup - Women,Farul Constanţa W,Køge,0.0,3.0,Away
-1418817,2025-09-17,233,Premier League,El Mokawloon,Pharco,1.0,1.0,Draw
-1422532,2025-09-17,178,Third League - Southwest,Septemvri Simitli,Bansko,0.0,0.0,Draw
-1422535,2025-09-17,178,Third League - Southwest,Slivnishki geroy,Pirin Razlog,1.0,0.0,Home
-1393324,2025-09-17,211,First NL,Jarun,Opatija,2.0,0.0,Home
-1395866,2025-09-17,109,II Liga - East,Chojniczanka Chojnice,Sokół Kleczew,1.0,4.0,Away
-1438574,2025-09-17,18,AFC Cup,Al Ahli Doha,Khalidiya,0.0,0.0,Draw
-1457604,2025-09-17,567,Ligi kuu Bara,Coastal Union,Tanzania Prisons,1.0,0.0,Home
-1467128,2025-09-17,206,Cup,Viven Bornova,Aliağa FAŞ,0.0,6.0,Away
-1468316,2025-09-17,206,Cup,Orduspor 1967,Sebat Gençlikspor,2.0,1.0,Home
-1382316,2025-09-17,207,Super League,FC Lugano,Lausanne,1.0,1.0,Draw
-1407520,2025-09-17,85,Regionalliga - Nordost,Chemnitzer FC,Hallescher FC,3.0,0.0,Home
-1409472,2025-09-17,938,Oberliga - Bayern Nord,Ingolstadt II,Stadeln,3.0,0.0,Home
-1353856,2025-09-17,906,Reserve League,Banfield Res.,Unión Santa Fe Res.,2.0,1.0,Home
-1470156,2025-09-17,1158,Copa Gaúcha,Internacional,Sao Jose,,,
-1451031,2025-09-17,2,UEFA Champions League,Bayern München,Chelsea,3.0,1.0,Home
-1351154,2025-09-17,71,Serie A,Botafogo,Mirassol,3.0,3.0,Draw
-1452824,2025-09-17,1080,Premier Division,North Stars,SAB Spartans,,,
-1453346,2025-09-17,1036,Copa Santa Catarina,Chapecoense B,Brusque,,,
-1419979,2025-09-17,259,Canadian Championship,Vancouver Whitecaps,Forge,4.0,0.0,Home
-1424888,2025-09-17,636,Ýokary Liga,Ahal,Merw,0.0,0.0,Draw
-1467116,2025-09-17,206,Cup,Amasyaspor 1968,Hekimoğlu Trabzon,0.0,1.0,Away
-1467120,2025-09-17,206,Cup,Karabük İdman Yurdu,Belediye Derincespor,1.0,0.0,Home
-1468314,2025-09-17,206,Cup,Kütahyaspor,Altınordu,3.0,1.0,Home
-1455230,2025-09-17,431,Serie D - Girone F,Victor San Marino,Termoli Calcio,0.0,1.0,Away
-1413093,2025-09-17,569,Premier League,Neftchi,Abdish-Ata,0.0,1.0,Away
-1415590,2025-09-17,318,1. Division,Omonia Nicosia,AEK Larnaca,1.0,0.0,Home
-1457266,2025-09-17,121,DBU Pokalen,Aalborg,FC Midtjylland,0.0,3.0,Away
-1469713,2025-09-17,165,1. Deild,Keflavik,Njardvik,1.0,2.0,Away
-1393856,2025-09-17,272,NB II,Kecskeméti TE,Budapest Honved,1.0,0.0,Home
-1394435,2025-09-17,203,Süper Lig,Fenerbahce,Alanyaspor,2.0,2.0,Draw
-1418511,2025-09-17,510,1. Liga Promotion,Cham,Vevey Sports,3.0,1.0,Home
-1373890,2025-09-17,1128,Brasileiro U17,Flamengo RJ U17,Sao Paulo U17,1.0,0.0,Home
-1373893,2025-09-17,1128,Brasileiro U17,Santos U17,Cruzeiro U17,3.0,0.0,Home
-1439764,2025-09-17,943,Serie C - Girone C,Salernitana,Atalanta II,1.0,0.0,Home
-1438576,2025-09-17,18,AFC Cup,Al-Nassr,Istiqlol,5.0,0.0,Home
-1469154,2025-09-17,14,UEFA Youth League,Larne U19,Racing Union U19,2.0,0.0,Home
-1466639,2025-09-17,200,Botola Pro,Raja Casablanca,FAR Rabat,0.0,0.0,Draw
-1396876,2025-09-17,252,Division Profesional - Clausura,Cerro Porteno,Atlético Tembetary,1.0,1.0,Draw
-1452822,2025-09-17,1080,Premier Division,Camerhogne,Hurricanes,,,
-1467111,2025-09-17,206,Cup,Silifke Belediyespor,Kahramanmaraş İstiklalsp,7.0,1.0,Home
-1467115,2025-09-17,206,Cup,Küçükçekmece Sinopspor,İnegölspor,1.0,3.0,Away
-1422539,2025-09-17,178,Third League - Southwest,Slavia Sofia II,Germaneya,1.0,1.0,Draw
-1348825,2025-09-17,329,Meistriliiga,Trans Narva,Kalju Nomme,0.0,0.0,Draw
-1418499,2025-09-17,510,1. Liga Promotion,Lugano II,Luzern II,2.0,2.0,Draw
-1421782,2025-09-17,220,Cup,Röthis,Sturm Graz,0.0,2.0,Away
-1467127,2025-09-17,206,Cup,Niğde Belediyesispor,68 Aksaray Belediyespor,3.0,1.0,Home
-1470008,2025-09-17,105,NM Cupen,Tromsdalen Uil,Sandefjord,6.0,1.0,Home
-1408107,2025-09-17,84,Regionalliga - Nord,Werder Bremen II,Eintracht Norderstedt,2.0,2.0,Draw
-1469550,2025-09-17,1191,UEFA Europa Cup - Women,PSV/Eindhoven W,Rosenborg W,4.0,0.0,Home
-1424058,2025-09-17,288,Premier Soccer League,Orlando Pirates,Magesi,,,
-1449574,2025-09-17,1037,Paraibano 2,Spartax,Sabugy,3.0,1.0,Home
-1429291,2025-09-17,1156,National League Cup,Gateshead,Middlesbrough U21,0.0,2.0,Away
-1470038,2025-09-17,1148,Maranhense - 2,Timon MA,São José MA,1.0,1.0,Draw
-1393443,2025-09-17,393,Premier League,Mosta,Hibernians,2.0,2.0,Draw
-1453411,2025-09-17,1125,Pernambucano - 2,América PE,Ipojuca,4.0,1.0,Home
-1467097,2025-09-17,1113,Copa Venezuela,Deportivo La Guaira,UCV,1.0,1.0,Draw
-1453353,2025-09-17,1036,Copa Santa Catarina,Concórdia,Brusque,,,
-1430815,2025-09-17,1031,Premier League,Samtse,Transport United,1.0,9.0,Away
-1467114,2025-09-17,206,Cup,Erbaaspor,Pazarspor,2.0,0.0,Home
-1469858,2025-09-17,14,UEFA Youth League,Inter Club U19,Skënderbeu U19,0.0,10.0,Away
-1467122,2025-09-17,206,Cup,Sivasspor,Şiran,2.0,1.0,Home
-1469057,2025-09-17,14,UEFA Youth League,Ajax U19,Internazionale U19,1.0,1.0,Draw
-1400678,2025-09-17,355,First League,Jedinstvo,Petrovac,1.0,0.0,Home
-1453526,2025-09-17,199,Cup,Levadiakos,PAOK,4.0,1.0,Home
-1469776,2025-09-17,709,Cup,Gandzasar,Alashkert,2.0,1.0,Home
-1450979,2025-09-17,330,Premier League,Al Kuwait,Al Jahra,4.0,1.0,Home
-1467124,2025-09-17,206,Cup,Balıkesirspor,Yalova Yeşilovaspor,1.0,2.0,Away
-1467125,2025-09-17,206,Cup,Menemen Belediyespor,Anadolu Üniversitesi,2.0,1.0,Home
-1470006,2025-09-17,105,NM Cupen,Mjondalen,Brann,1.0,5.0,Away
-1409773,2025-09-17,87,Regionalliga - West,Schalke 04 II,Rot-weiss Oberhausen,0.0,2.0,Away
-1353857,2025-09-17,906,Reserve League,Aldosivi Res.,Argentinos Juniors Res.,1.0,1.0,Draw
-1373889,2025-09-17,1128,Brasileiro U17,America MG U17,Fluminense U17,0.0,1.0,Away
-1434612,2025-09-17,758,Premier Division,Europa,Manchester 62,2.0,1.0,Home
-1436639,2025-09-17,163,Liga de Ascenso,Limón Black Star,Santa Ana,,,
+1438841,2025-09-19 00:00:00+00:00,856,CONCACAF Caribbean Club Championship,Juventus,Weymouth Wales,1,2,Away
+1446514,2025-09-19 00:00:00+00:00,13,CONMEBOL Libertadores,Flamengo,Estudiantes L.P.,2,1,Home
+1452029,2025-09-19 00:00:00+00:00,281,Primera División,Deportivo Garcilaso,FBC Melgar,1,1,Draw
+1466799,2025-09-19 00:00:00+00:00,11,CONMEBOL Sudamericana,Alianza Lima,Universidad de Chile,0,0,Draw
+1436641,2025-09-19 00:00:00+00:00,163,Liga de Ascenso,Aserri FC,AD Carmelita,1,0,Home
+1451633,2025-09-19 00:00:00+00:00,1136,CONCACAF W Champions Cup,América W,Pachuca W,1,0,Home
+1463490,2025-09-19 00:00:00+00:00,234,Liga Nacional,Atlético Choloma,Victoria,2,1,Home
+1392887,2025-09-19 00:00:00+00:00,162,Primera División,CS Cartagines,Perez Zeledon,1,1,Draw
+1436640,2025-09-19 00:00:00+00:00,163,Liga de Ascenso,Futbol Consultants Moravia,Escorpiones Belén,3,2,Home
+1339386,2025-09-19 00:00:00+00:00,254,NWSL Women,Angel City W,Washington Spirit W,2,2,Draw
+1403607,2025-09-19 00:00:00+00:00,274,Liga 1,Bhayangkara FC,Persik Kediri,1,0,Home
+1435616,2025-09-19 00:00:00+00:00,588,National League,Hantharwady United,Yarmanya United,6,0,Home
+1435573,2025-09-19 00:00:00+00:00,588,National League,Dagon Port,Ayeyawady United,0,4,Away
+1467303,2025-09-19 00:00:00+00:00,1020,Calcutta Premier Division,Kalighat,Railway,,,
+1467304,2025-09-19 00:00:00+00:00,1020,Calcutta Premier Division,Calcutta Police,Mohammedan,,,
+1456681,2025-09-19 00:00:00+00:00,496,Liga Alef,Hapoel Marmorek,Holon Yermiyahu,1,0,Home
+1325168,2025-09-19 00:00:00+00:00,100,J3 League,Osaka,Kitakyushu,0,3,Away
+1358397,2025-09-19 00:00:00+00:00,238,Youth Championship,Krylya Sovetov U19,Baltika U19,2,0,Home
+1358400,2025-09-19 00:00:00+00:00,238,Youth Championship,Fakel U19,Nizhny Novgorod U19,0,2,Away
+1400463,2025-09-19 00:00:00+00:00,334,Persha Liga,Ahrobiznes Volochysk,UCSA,1,0,Home
+1430816,2025-09-19 00:00:00+00:00,1031,Premier League,Tsirang,Southern City,1,0,Home
+1470843,2025-09-19 00:00:00+00:00,637,V.League 2,Sanna Khanh Hoa,Long An,2,0,Home
+1421671,2025-09-19 00:00:00+00:00,1065,U19 League,Zhytomyr U19,Kudrivka U19,3,0,Home
+1456680,2025-09-19 00:00:00+00:00,496,Liga Alef,Hapoel Herzliya,Tzeirey Tira,2,2,Draw
+1456682,2025-09-19 00:00:00+00:00,496,Liga Alef,Dimona,Maccabi Yavne,1,2,Away
+1368120,2025-09-19 00:00:00+00:00,388,1. Division,Shakhter Karagandy,Zhetisay,5,0,Home
+1368121,2025-09-19 00:00:00+00:00,388,1. Division,Sport Academy Kairat,Akademiya Ontustik,0,3,Away
+1396167,2025-09-19 00:00:00+00:00,668,1. Liga U19,Karviná U19,Dukla Praha U19,1,2,Away
+1397326,2025-09-19 00:00:00+00:00,1033,Ekstraliga Women,Pogon Tczew W,Akademia Piłkarska LG,0,3,Away
+1401167,2025-09-19 00:00:00+00:00,395,Liga 1,Victoria Bardar,Iskra,2,6,Away
+1412515,2025-09-19 00:00:00+00:00,336,Druha Liga,Lokomotiv Kyiv,Chornomorets II,2,0,Home
+1416301,2025-09-19 00:00:00+00:00,1065,U19 League,Kolos Kovalivka U19,Veres Rivne U19,1,1,Draw
+1429163,2025-09-19 00:00:00+00:00,410,C-League,Svay Rieng,Life Sihanoukville,6,1,Home
+1430635,2025-09-19 00:00:00+00:00,410,C-League,Kompong Dewa,Phnom Penh Crown,0,1,Away
+1435825,2025-09-19 00:00:00+00:00,566,Ligue A,Muzinga,Aigle Noir,,,
+1456683,2025-09-19 00:00:00+00:00,496,Liga Alef,Maccabi Kiryat Malachi,FC Jerusalem,2,1,Home
+1456686,2025-09-19 00:00:00+00:00,496,Liga Alef,Maccabi Ashdod,Hapoel Ramat HaSharon,0,1,Away
+1470844,2025-09-19 00:00:00+00:00,637,V.League 2,Binh Dinh,Văn Hiến,1,1,Draw
+1456439,2025-09-19 00:00:00+00:00,496,Liga Alef,Hapoel Migdal HaEmek,Maccabi Neve Sha'anan,1,2,Away
+1456685,2025-09-19 00:00:00+00:00,496,Liga Alef,Maccabi Kiryat Gat,Shimshon Tel Aviv,1,0,Home
+1456684,2025-09-19 00:00:00+00:00,496,Liga Alef,Nordia Jerusalem,Kfar Saba 1928,0,1,Away
+1398372,2025-09-19 00:00:00+00:00,204,1. Lig,Serik Belediyespor,Bandırmaspor,1,0,Home
+1421799,2025-09-19 00:00:00+00:00,368,Premier League,Hougang United,Geylang International,0,2,Away
+1456443,2025-09-19 00:00:00+00:00,496,Liga Alef,Ironi Baka El Garbiya,Maccabi Nujeidat Ahmed,3,0,Home
+1456446,2025-09-19 00:00:00+00:00,496,Liga Alef,Hapoel Bnei Musmus,Hapoel Ironi Karmiel,,,
+1341094,2025-09-19 00:00:00+00:00,169,Super League,Wuhan Three Towns,Henan Jianye,2,5,Away
+1341091,2025-09-19 00:00:00+00:00,169,Super League,Yunnan Yukun,Dalian Zhixing,1,1,Draw
+1341435,2025-09-19 00:00:00+00:00,326,Erovnuli Liga 2,Sioni,Lokomotivi Tbilisi,3,5,Away
+1341436,2025-09-19 00:00:00+00:00,326,Erovnuli Liga 2,Samtredia,Dinamo Tbilisi II,2,2,Draw
+1341437,2025-09-19 00:00:00+00:00,326,Erovnuli Liga 2,Saburtalo II,Meshakhte,2,1,Home
+1358398,2025-09-19 00:00:00+00:00,238,Youth Championship,CSKA Moskva U19,Rubin Kazan U20,4,1,Home
+1358399,2025-09-19 00:00:00+00:00,238,Youth Championship,Akademiya Konoplev U20,Lokomotiv Moskva U19,0,3,Away
+1358401,2025-09-19 00:00:00+00:00,238,Youth Championship,Akhmat Grozny U20,Ural U20,1,1,Draw
+1403608,2025-09-19 00:00:00+00:00,274,Liga 1,Malut United,Persepam Madura Utd,4,1,Home
+1403609,2025-09-19 00:00:00+00:00,274,Liga 1,Persebaya Surabaya,Semen Padang,1,0,Home
+1423153,2025-09-19 00:00:00+00:00,297,Thai League 2,Songkhla,Trat FC,1,0,Home
+1445797,2025-09-19 00:00:00+00:00,419,Premyer Liqa,Karvan,Mil-Muğan,0,3,Away
+1446596,2025-09-19 00:00:00+00:00,296,Thai League 1,Port FC,Chonburi FC,3,0,Home
+1450825,2025-09-19 00:00:00+00:00,342,Premier League,Van,Shirak,3,2,Home
+1466856,2025-09-19 00:00:00+00:00,418,Birinci Dasta,Şimal,MOIK,1,1,Draw
+1469811,2025-09-19 00:00:00+00:00,20,CAF Confederation Cup,Welayta Dicha,Al-Ittihad,0,0,Draw
+1444673,2025-09-19 00:00:00+00:00,390,Premier League,Shabab Al Sahel,Al Mabarrah,0,0,Draw
+1459149,2025-09-19 00:00:00+00:00,390,Premier League,Bourj,Jwaaya FC,0,3,Away
+1358648,2025-09-19 00:00:00+00:00,571,Vysshaya Liga,Istaravshan,Khosilot Farkhor,,,
+1368124,2025-09-19 00:00:00+00:00,388,1. Division,Irtysh,Yassy Turkistan,6,1,Home
+1401168,2025-09-19 00:00:00+00:00,395,Liga 1,FCM Ungheni,Zimbru II,3,3,Draw
+1401169,2025-09-19 00:00:00+00:00,395,Liga 1,Floreşti,Oguzsport,1,1,Draw
+1401412,2025-09-19 00:00:00+00:00,395,Liga 1,Făleşti,Sheriff II,0,0,Draw
+1404130,2025-09-19 00:00:00+00:00,278,Super League,Terengganu,Melaka,4,0,Home
+1412508,2025-09-19 00:00:00+00:00,336,Druha Liga,Nyva Vinnytsya,Lisne,1,0,Home
+1413065,2025-09-19 00:00:00+00:00,569,Premier League,Ilbirs,Alay,1,4,Away
+1413068,2025-09-19 00:00:00+00:00,569,Premier League,Asiagoal,Alga,2,1,Home
+1429069,2025-09-19 00:00:00+00:00,676,Central Youth League,Stal Rzeszów U19,Polonia Warszawa U19,3,0,Home
+1433937,2025-09-19 00:00:00+00:00,703,Professional Development League,Watford U21,Cardiff City U21,0,2,Away
+1434347,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,Everton U21,Aston Villa U21,2,3,Away
+1435831,2025-09-19 00:00:00+00:00,566,Ligue A,Le Messager Ngozi,Olympic Star,0,0,Draw
+1435832,2025-09-19 00:00:00+00:00,566,Ligue A,Vital'O,Rukinzo,1,0,Home
+1440791,2025-09-19 00:00:00+00:00,887,Second League,El Dakhleya,Raya Ghazl,1,0,Home
+1440793,2025-09-19 00:00:00+00:00,887,Second League,Dayrout,Baladiyyat Al Mehalla,1,1,Draw
+1440795,2025-09-19 00:00:00+00:00,887,Second League,Olympic El Qanah,El Mansura,1,1,Draw
+1468358,2025-09-19 00:00:00+00:00,405,National Soccer League,Rutsiro,Gasogi United,2,3,Away
+1468359,2025-09-19 00:00:00+00:00,405,National Soccer League,Muhanga,Kiyovu Sports,0,1,Away
+1469812,2025-09-19 00:00:00+00:00,20,CAF Confederation Cup,Aigle Royal,San-Pédro,0,1,Away
+1470163,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Ferroviária U20,Ibrachina U20,0,0,Draw
+1470949,2025-09-19 00:00:00+00:00,303,Division 1,City,Emirates Club,0,1,Away
+1470950,2025-09-19 00:00:00+00:00,303,Division 1,Dibba Al Hisn,Al Dahra,2,0,Home
+1470951,2025-09-19 00:00:00+00:00,303,Division 1,Al Jazira Al Hamra,Hatta SC,0,1,Away
+1356976,2025-09-19 00:00:00+00:00,116,Premier League,Naftan,Molodechno-DYuSSh 4,5,0,Home
+1358649,2025-09-19 00:00:00+00:00,571,Vysshaya Liga,Ravshan,Panjsher,0,0,Draw
+1378465,2025-09-19 00:00:00+00:00,117,1. Division,Slonim,Orsha,4,1,Home
+1394808,2025-09-19 00:00:00+00:00,506,2. liga,Považská Bystrica,Malženice,1,3,Away
+1399331,2025-09-19 00:00:00+00:00,369,Super League,Olmaliq,Bunyodkor,5,1,Home
+1446902,2025-09-19 00:00:00+00:00,301,Pro League,Al Wahda FC,Al-Dhafra,5,2,Home
+1456444,2025-09-19 00:00:00+00:00,496,Liga Alef,Hapoel Ironi Arraba,Tzeirei Umm al-Fahm,1,2,Away
+1470952,2025-09-19 00:00:00+00:00,303,Division 1,Al Hamriyah,Gulf United,4,2,Home
+1470997,2025-09-19 00:00:00+00:00,574,Srpska Liga - East,Sinđelić,Jedinstvo Kruševac,1,2,Away
+1466990,2025-09-19 00:00:00+00:00,417,Premier League,Al Najma,A'Ali,0,3,Away
+1466991,2025-09-19 00:00:00+00:00,417,Premier League,Malkiya,Budaiya,2,1,Home
+1351958,2025-09-19 00:00:00+00:00,389,Premier League,FK Tobol Kostanay,FC Astana,2,3,Away
+1358402,2025-09-19 00:00:00+00:00,238,Youth Championship,Krasnodar U19,Spartak Moskva U19,5,4,Home
+1358829,2025-09-19 00:00:00+00:00,238,Youth Championship,Rostov U19,Zenit U19,1,0,Home
+1359659,2025-09-19 00:00:00+00:00,649,Supreme Division Women,Rostov W,Dinamo Moskva W,0,3,Away
+1383721,2025-09-19 00:00:00+00:00,361,1 Lyga,Neptūną Klaipėda,Nevėžis,1,0,Home
+1395118,2025-09-19 00:00:00+00:00,287,Prva Liga,Dubočica,FK Trayal,1,0,Home
+1398367,2025-09-19 00:00:00+00:00,204,1. Lig,İstanbulspor,Yeni Çorumspor,3,1,Home
+1398373,2025-09-19 00:00:00+00:00,204,1. Lig,Ümraniyespor,76 Iğdır Belediyespor,0,1,Away
+1399328,2025-09-19 00:00:00+00:00,369,Super League,Shortan,Pakhtakor,0,0,Draw
+1410541,2025-09-19 00:00:00+00:00,781,III Liga - Group 2,Unia Swarzędz,Polonia Środa,0,2,Away
+1410839,2025-09-19 00:00:00+00:00,782,III Liga - Group 3,Górnik Polkowice,SKRA Częstochowa,4,1,Home
+1410840,2025-09-19 00:00:00+00:00,782,III Liga - Group 3,Miedź Legnica II,Goczałkowice Zdrój,1,3,Away
+1415290,2025-09-19 00:00:00+00:00,311,1st Division,Burreli,Besa Kavajë,2,1,Home
+1415293,2025-09-19 00:00:00+00:00,311,1st Division,Laci,Korabi Peshkopi,2,0,Home
+1417799,2025-09-19 00:00:00+00:00,349,3. liga - MSFL,Karviná II,Unie Hlubina,0,1,Away
+1418236,2025-09-19 00:00:00+00:00,284,Liga II,Bihor Oradea,FC Bacau,2,0,Home
+1418824,2025-09-19 00:00:00+00:00,233,Premier League,Wadi Degla,El Geish,1,0,Home
+1434245,2025-09-19 00:00:00+00:00,1087,Ykkösliiga,JIPPO,EIF,2,2,Draw
+1436518,2025-09-19 00:00:00+00:00,317,1st League - RS,BSK Banja Luka,Slavija,2,1,Home
+1441011,2025-09-19 00:00:00+00:00,946,Second NL,Hrvatski Dragovoljac,Trnje,1,1,Draw
+1441014,2025-09-19 00:00:00+00:00,946,Second NL,Solin,Uljanik,2,2,Draw
+1441015,2025-09-19 00:00:00+00:00,946,Second NL,Mladost Ždralovi,Lucko,2,0,Home
+1469715,2025-09-19 00:00:00+00:00,12,CAF Champions League,Dadjè,Al Ahli Tripoli,0,0,Draw
+1470164,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Referencia U20,Palmeiras U20,0,2,Away
+1470179,2025-09-19 00:00:00+00:00,311,1st Division,Pogradeci,Skenderbeu Korce,0,1,Away
+1356687,2025-09-19 00:00:00+00:00,328,Esiliiga A,Tallinna Kalev II,Viimsi,0,5,Away
+1411141,2025-09-19 00:00:00+00:00,783,III Liga - Group 4,Korona Kielce II,KSZO 1929,1,2,Away
+1434243,2025-09-19 00:00:00+00:00,1087,Ykkösliiga,SalPa,Lahti,1,4,Away
+1444849,2025-09-19 00:00:00+00:00,572,Srpska Liga - Belgrade,Brodarac,Kolubara,4,0,Home
+1445793,2025-09-19 00:00:00+00:00,419,Premyer Liqa,Zira,Keshla FC,2,1,Home
+1457341,2025-09-19 00:00:00+00:00,245,Ykkönen,KPV-j,MP,1,2,Away
+1457356,2025-09-19 00:00:00+00:00,245,Ykkönen,Atlantis,PKKU,3,0,Home
+1436819,2025-09-19 00:00:00+00:00,172,First League,Montana,Spartak Varna,1,2,Away
+1449745,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Mes Rafsanjan,Shams Azar Qazvin,0,0,Draw
+1341259,2025-09-19 00:00:00+00:00,327,Erovnuli Liga,Samgurali,Dila,1,2,Away
+1359662,2025-09-19 00:00:00+00:00,649,Supreme Division Women,Ryazan W,CSKA Moskva W,1,3,Away
+1383719,2025-09-19 00:00:00+00:00,361,1 Lyga,Minija,Hegelmann II,2,0,Home
+1383720,2025-09-19 00:00:00+00:00,361,1 Lyga,Babrungas,Atmosfera,3,0,Home
+1384490,2025-09-19 00:00:00+00:00,346,FNL,Vlašim,Chrudim,1,1,Draw
+1413072,2025-09-19 00:00:00+00:00,569,Premier League,Ilbirs,Bars,,,
+1422716,2025-09-19 00:00:00+00:00,186,Ligue 1,Paradou AC,Oued Akbou,1,2,Away
+1449746,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Aluminium Arak,Esteghlal Khuzestan,2,0,Home
+1449747,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Chadormalu SC,Persepolis FC,0,0,Draw
+1450826,2025-09-19 00:00:00+00:00,342,Premier League,FC Urartu,Ararat,6,0,Home
+1457325,2025-09-19 00:00:00+00:00,244,Veikkausliiga,Haka,AC Oulu,0,1,Away
+1457466,2025-09-19 00:00:00+00:00,387,League,Al Jazeera,Al Salt,1,0,Home
+1467142,2025-09-19 00:00:00+00:00,542,Iraqi League,Al Najaf,Diyala,0,1,Away
+1468224,2025-09-19 00:00:00+00:00,187,Ligue 2,Usm El Harrach,Béchar Djedid,1,0,Home
+1468225,2025-09-19 00:00:00+00:00,187,Ligue 2,RC Arba,Hussein Dey,0,3,Away
+1468226,2025-09-19 00:00:00+00:00,187,Ligue 2,MC Saida,RC Kouba,0,1,Away
+1468228,2025-09-19 00:00:00+00:00,187,Ligue 2,Tiaret,Koléa,2,0,Home
+1468229,2025-09-19 00:00:00+00:00,187,Ligue 2,ASM Oran,JS El Biar,0,0,Draw
+1468230,2025-09-19 00:00:00+00:00,187,Ligue 2,WA Mostaganem,CRB Adrar,1,0,Home
+1468240,2025-09-19 00:00:00+00:00,187,Ligue 2,JS Tixeraine,WA Tlemcen,0,1,Away
+1468948,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Anthering,Bramberg,2,3,Away
+1469716,2025-09-19 00:00:00+00:00,12,CAF Champions League,Wiliete,Young Africans,0,3,Away
+1469813,2025-09-19 00:00:00+00:00,20,CAF Confederation Cup,NIGELEC,Olympique Safi,0,1,Away
+1470539,2025-09-19 00:00:00+00:00,276,FKF Premier League,Tusker,KCB,0,2,Away
+1435934,2025-09-19 00:00:00+00:00,307,Pro League,Al-Qadisiyah FC,Al Khaleej Saihat,2,1,Home
+1450983,2025-09-19 00:00:00+00:00,330,Premier League,Al Nasar,Al Salmiyah,0,2,Away
+1356983,2025-09-19 00:00:00+00:00,116,Premier League,Torpedo Zhodino,Smorgon,0,1,Away
+1384271,2025-09-19 00:00:00+00:00,373,1. SNL,Aluminij,Maribor,2,3,Away
+1384489,2025-09-19 00:00:00+00:00,346,FNL,Ústí nad Labem,Prostějov,1,2,Away
+1434244,2025-09-19 00:00:00+00:00,1087,Ykkösliiga,JäPS,Turku PS,1,1,Draw
+1434246,2025-09-19 00:00:00+00:00,1087,Ykkösliiga,KäPa,SJK Akatemia,3,1,Home
+1449748,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Malavan,Gol Gohar,0,2,Away
+1449749,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Fajr Sepasi,ZOB Ahan,1,0,Home
+1457355,2025-09-19 00:00:00+00:00,245,Ykkönen,Inter Turku II,FC jazz,2,1,Home
+1470180,2025-09-19 00:00:00+00:00,386,Ligue 1,Africa Sports,Bouaké,0,0,Draw
+1470181,2025-09-19 00:00:00+00:00,386,Ligue 1,SOL,ASEC Mimosas,,,
+1470182,2025-09-19 00:00:00+00:00,386,Ligue 1,Stade d'Abidjan,Mouna,,,
+1470183,2025-09-19 00:00:00+00:00,386,Ligue 1,Racing d'Abidjan,AFAD,,,
+1470184,2025-09-19 00:00:00+00:00,386,Ligue 1,SOA,San-Pédro,,,
+1435935,2025-09-19 00:00:00+00:00,307,Pro League,Al-Fayha,Al Shabab,0,0,Draw
+1341263,2025-09-19 00:00:00+00:00,327,Erovnuli Liga,Dinamo Tbilisi,Saburtalo,2,1,Home
+1358828,2025-09-19 00:00:00+00:00,238,Youth Championship,Dinamo Moskva U19,Sochi U20,0,2,Away
+1380457,2025-09-19 00:00:00+00:00,106,Ekstraklasa,GKS Katowice,Cracovia Krakow,0,3,Away
+1381601,2025-09-19 00:00:00+00:00,107,I Liga,Odra Opole,Stal Rzeszów,2,1,Home
+1391677,2025-09-19 00:00:00+00:00,219,2. Liga,Stripfing,Schwarz-Weiß Bregenz,3,0,Home
+1391678,2025-09-19 00:00:00+00:00,219,2. Liga,Austria Lustenau,Floridsdorfer AC,0,0,Draw
+1391679,2025-09-19 00:00:00+00:00,219,2. Liga,Rapid Wien II,Admira Wacker,2,2,Draw
+1391680,2025-09-19 00:00:00+00:00,219,2. Liga,WSPG Wels,FC Liefering,1,1,Draw
+1394804,2025-09-19 00:00:00+00:00,506,2. liga,Zlaté Moravce,Žilina II,3,1,Home
+1395891,2025-09-19 00:00:00+00:00,109,II Liga - East,Zaglebie Sosnowiec,Świt Skolwin,3,0,Home
+1415611,2025-09-19 00:00:00+00:00,318,1. Division,Olympiakos,Digenis Ypsonas,1,1,Draw
+1417701,2025-09-19 00:00:00+00:00,351,4. liga - Divizie B,Karlovy Vary,Ústí nad Labem II,4,0,Home
+1417798,2025-09-19 00:00:00+00:00,349,3. liga - MSFL,Hlučín,Start Brno,2,2,Draw
+1417803,2025-09-19 00:00:00+00:00,349,3. liga - MSFL,Hranice,Slovácko II,1,3,Away
+1420923,2025-09-19 00:00:00+00:00,348,3. liga - CFL A,Písek,Jiskra Domažlice,3,1,Home
+1434283,2025-09-19 00:00:00+00:00,640,Kansallinen Liiga,PK-35 Vantaa W,HPS W,3,0,Home
+1451997,2025-09-19 00:00:00+00:00,1052,Kakkonen - Play-offs,PPJ,Atlantis II,5,0,Home
+1456915,2025-09-19 00:00:00+00:00,722,Liga Premier Serie A,Correcaminos UAT II,Zitacuaro,1,0,Home
+1457326,2025-09-19 00:00:00+00:00,244,Veikkausliiga,Kooteepee,FF Jaro,1,2,Away
+1457342,2025-09-19 00:00:00+00:00,245,Ykkönen,JJK,KuPS Akatemia,1,2,Away
+1464240,2025-09-19 00:00:00+00:00,226,Landesliga - Niederosterreich,Zwettl,Kilb,4,3,Home
+1464730,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Grödig,Thalgau,0,2,Away
+1467413,2025-09-19 00:00:00+00:00,319,2. Division,Ethnikos Latsion,Digenis Morphou,0,3,Away
+1467417,2025-09-19 00:00:00+00:00,319,2. Division,APEA,Doxa,1,2,Away
+1469717,2025-09-19 00:00:00+00:00,12,CAF Champions League,African Stars,Vipers,0,1,Away
+1469814,2025-09-19 00:00:00+00:00,20,CAF Confederation Cup,USFA,Gbohloé-su des Lacs,1,0,Home
+1470188,2025-09-19 00:00:00+00:00,640,Kansallinen Liiga,PK-35 Helsinki,Ilves,2,1,Home
+1446903,2025-09-19 00:00:00+00:00,301,Pro League,Baniyas SC,Al-Jazira,0,4,Away
+1329623,2025-09-19 00:00:00+00:00,778,3. Division - Girone 5,Hinna,Sola,7,1,Home
+1388659,2025-09-19 00:00:00+00:00,79,2. Bundesliga,Arminia Bielefeld,SpVgg Greuther Fürth,1,3,Away
+1388663,2025-09-19 00:00:00+00:00,79,2. Bundesliga,1. FC Kaiserslautern,Preußen Münster,4,1,Home
+1399280,2025-09-19 00:00:00+00:00,362,A Lyga,Dainava,Šiauliai,0,3,Away
+1399281,2025-09-19 00:00:00+00:00,362,A Lyga,FK Trakai,FK Zalgiris Vilnius,0,2,Away
+1401315,2025-09-19 00:00:00+00:00,82,Frauen Bundesliga,SC Freiburg W,Hamburger SV W,6,2,Home
+1408142,2025-09-19 00:00:00+00:00,84,Regionalliga - Nord,VfB Oldenburg,Hannover 96 II,4,2,Home
+1410243,2025-09-19 00:00:00+00:00,780,III Liga - Group 1,Broń Radom,Znicz Biała Piska,2,0,Home
+1433641,2025-09-19 00:00:00+00:00,125,Denmark Series - Group 2,Fredensborg BI,Skjold Sæby,0,0,Draw
+1446707,2025-09-19 00:00:00+00:00,644,3. liga - West,MŠK Senec,Trenčín II,3,0,Home
+1464015,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,SAK Klagenfurt,St. Veit / Glan,0,1,Away
+1422720,2025-09-19 00:00:00+00:00,186,Ligue 1,CS Constantine,ASO Chlef,2,2,Draw
+1341262,2025-09-19 00:00:00+00:00,327,Erovnuli Liga,Dinamo Batumi,Telavi,1,3,Away
+1341438,2025-09-19 00:00:00+00:00,326,Erovnuli Liga 2,Rustavi,Spaeri,2,0,Home
+1341630,2025-09-19 00:00:00+00:00,549,Damallsvenskan,Linköping,Piteå W,2,2,Draw
+1341882,2025-09-19 00:00:00+00:00,114,Superettan,Falkenbergs FF,GIF Sundsvall,3,0,Home
+1341888,2025-09-19 00:00:00+00:00,114,Superettan,Vasteras SK FK,Oddevold,2,0,Home
+1341889,2025-09-19 00:00:00+00:00,114,Superettan,Ostersunds FK,Umeå FC,3,0,Home
+1342974,2025-09-19 00:00:00+00:00,564,Ettan - Södra,Jonkopings Sodra,Husqvarna,0,0,Draw
+1343793,2025-09-19 00:00:00+00:00,592,Division 2 - Norra Götaland,Herrestads,Grebbestad,1,1,Draw
+1343794,2025-09-19 00:00:00+00:00,592,Division 2 - Norra Götaland,Kumla,Motala,1,3,Away
+1343964,2025-09-19 00:00:00+00:00,595,Division 2 - Södra Svealand,Smedby,Nyköping,2,2,Draw
+1343967,2025-09-19 00:00:00+00:00,595,Division 2 - Södra Svealand,Enskede,Huddinge,3,1,Home
+1344150,2025-09-19 00:00:00+00:00,597,Division 2 - Östra Götaland,Nosaby,IFK Hässleholm,1,1,Draw
+1344509,2025-09-19 00:00:00+00:00,596,Division 2 - Västra Götaland,Lindome,Jonsered,3,0,Home
+1379400,2025-09-19 00:00:00+00:00,119,Superliga,Odense,FC Fredericia,3,2,Home
+1384958,2025-09-19 00:00:00+00:00,286,Super Liga,Napredak,Radnik Surdulica,1,3,Away
+1388118,2025-09-19 00:00:00+00:00,374,2. SNL,Brinje-Grosuplje,Dravinja,2,1,Home
+1393110,2025-09-19 00:00:00+00:00,122,2. Division,Fremad Amager,Vendsyssel FF,2,1,Home
+1393111,2025-09-19 00:00:00+00:00,122,2. Division,HIK,AB Copenhagen,0,4,Away
+1393112,2025-09-19 00:00:00+00:00,122,2. Division,FC Helsingor,Naestved,1,2,Away
+1394117,2025-09-19 00:00:00+00:00,80,3. Liga,FC Saarbrücken,FC Schweinfurt 05,2,1,Home
+1394482,2025-09-19 00:00:00+00:00,203,Süper Lig,Goztepe,Besiktas,3,0,Home
+1397785,2025-09-19 00:00:00+00:00,222,Regionalliga - Mitte,Voitsberg,Wallern / Marienkirchen,3,0,Home
+1397786,2025-09-19 00:00:00+00:00,222,Regionalliga - Mitte,SV Lafnitz,Kalsdorf,1,3,Away
+1397788,2025-09-19 00:00:00+00:00,222,Regionalliga - Mitte,Treibach,Oedt,2,1,Home
+1398366,2025-09-19 00:00:00+00:00,204,1. Lig,Hatayspor,Boluspor,2,2,Draw
+1398751,2025-09-19 00:00:00+00:00,223,Regionalliga - West,Wals-Grünau,Bischofshofen,2,2,Draw
+1406152,2025-09-19 00:00:00+00:00,753,Oberliga - Baden-Württemberg,FC 08 Villingen,FC Nöttingen,3,5,Away
+1407528,2025-09-19 00:00:00+00:00,85,Regionalliga - Nordost,BSG Chemie Leipzig,BFC Dynamo,2,0,Home
+1407529,2025-09-19 00:00:00+00:00,85,Regionalliga - Nordost,SV Babelsberg 03,Altglienicke,1,2,Away
+1407531,2025-09-19 00:00:00+00:00,85,Regionalliga - Nordost,Hertha Zehlendorf,FSV Zwickau,0,1,Away
+1408140,2025-09-19 00:00:00+00:00,84,Regionalliga - Nord,Altona 93,Hamburger SV II,0,2,Away
+1408145,2025-09-19 00:00:00+00:00,84,Regionalliga - Nord,Kickers Emden,BW Lohne,2,0,Home
+1408434,2025-09-19 00:00:00+00:00,83,Regionalliga - Bayern,Bayreuth,Greuther Fürth II,0,3,Away
+1408436,2025-09-19 00:00:00+00:00,83,Regionalliga - Bayern,Buchbach,SpVgg Unterhaching,1,1,Draw
+1408437,2025-09-19 00:00:00+00:00,83,Regionalliga - Bayern,Viktoria Aschaffenburg,Vilzing,3,2,Home
+1408438,2025-09-19 00:00:00+00:00,83,Regionalliga - Bayern,Hankofen-Hailing,Würzburger Kickers,1,3,Away
+1408439,2025-09-19 00:00:00+00:00,83,Regionalliga - Bayern,Illertissen,Augsburg II,0,3,Away
+1408737,2025-09-19 00:00:00+00:00,86,Regionalliga - SudWest,TSV Steinbach,SG Sonnenhof Grossaspach,2,2,Draw
+1409051,2025-09-19 00:00:00+00:00,939,Oberliga - Bayern Süd,Erlbach,1860 München II,2,1,Home
+1409056,2025-09-19 00:00:00+00:00,939,Oberliga - Bayern Süd,Landsberg,Sturm Hauzenberg,4,2,Home
+1409513,2025-09-19 00:00:00+00:00,938,Oberliga - Bayern Nord,Neudrossenfeld,Kornburg,1,1,Draw
+1409515,2025-09-19 00:00:00+00:00,938,Oberliga - Bayern Nord,Großschwarzenlohe,Jahn Regensburg II,1,1,Draw
+1417934,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,Parndorf,Wiener SC,1,0,Home
+1417935,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,Mannsdorf-Großenzersdorf,Gloggnitz,1,1,Draw
+1418825,2025-09-19 00:00:00+00:00,233,Premier League,Al Ahly,Ceramica Cleopatra,1,0,Home
+1418826,2025-09-19 00:00:00+00:00,233,Premier League,Smouha SC,Haras El Hodood,1,0,Home
+1419546,2025-09-19 00:00:00+00:00,287,Prva Liga,Loznica,Stepojevac Vaga,2,1,Home
+1419627,2025-09-19 00:00:00+00:00,136,Serie B,Frosinone,Sudtirol,2,2,Draw
+1420395,2025-09-19 00:00:00+00:00,350,4. liga - Divizie A,Hluboka nad Vltavou,Milevsko,3,1,Home
+1422339,2025-09-19 00:00:00+00:00,644,3. liga - West,Spartak Myjava,Nové Zámky,2,0,Home
+1425437,2025-09-19 00:00:00+00:00,68,National 2 - Group B,Bastia-Borgo,Blois,1,1,Draw
+1425670,2025-09-19 00:00:00+00:00,67,National 2 - Group A,Les Herbiers,La Roche VF,2,0,Home
+1435747,2025-09-19 00:00:00+00:00,1053,Division 2 - Play-offs,Piteå,Skellefteå,1,1,Draw
+1449750,2025-09-19 00:00:00+00:00,290,Persian Gulf Pro League,Foolad FC,Kheybar Khorramabad,1,0,Home
+1455836,2025-09-19 00:00:00+00:00,433,Serie D - Girone H,Fidelis Andria,Paganese,1,0,Home
+1464016,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,Wolfsberg,Bleiburg,0,2,Away
+1464017,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,Völkermarkt,Dellach im Gailtal,2,2,Draw
+1464018,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,Austria Klagenfurt II,Spittal,1,2,Away
+1464019,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,Lendorf,Grafenstein,2,4,Away
+1464487,2025-09-19 00:00:00+00:00,227,Landesliga - Oberosterreich,Bad Schallerbach,Union Perg,3,1,Home
+1464488,2025-09-19 00:00:00+00:00,227,Landesliga - Oberosterreich,SK Vorwarts Steyr,Oedt,,,
+1464489,2025-09-19 00:00:00+00:00,227,Landesliga - Oberosterreich,Union Edelweiß,Pregarten,1,0,Home
+1464491,2025-09-19 00:00:00+00:00,227,Landesliga - Oberosterreich,Weißkirchen / Allhaming,Bad Ischl,2,0,Home
+1464728,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Neumarkt,Bürmoos,1,5,Away
+1464731,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,SV Schwarzach,Siezenheim,3,4,Away
+1464732,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Hallwang,Union Henndorf,3,2,Home
+1464733,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Salzburger AK,UFC Hallein,2,2,Draw
+1464734,2025-09-19 00:00:00+00:00,228,Landesliga - Salzburg,Eugendorf,Straßwalchen,5,1,Home
+1464967,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Pachern,Leoben,4,0,Home
+1464968,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Union RB Weinland Gamlit,UFC Fehring,1,2,Away
+1464969,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Schladming,Köflach,1,1,Draw
+1464970,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Ilz,Tillmitsch,0,0,Draw
+1464971,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Bruck an der Mur,Bad Waltersdorf,3,2,Home
+1464972,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Allerheiligen,Gnas,2,1,Home
+1464973,2025-09-19 00:00:00+00:00,229,Landesliga - Steiermark,Lebring,Fürstenfeld,1,0,Home
+1465368,2025-09-19 00:00:00+00:00,231,Landesliga - Vorarlbergliga,Bizau,Lochau,3,1,Home
+1465555,2025-09-19 00:00:00+00:00,232,Landesliga - Wien,Schwechat,First Vienna II,1,2,Away
+1468488,2025-09-19 00:00:00+00:00,570,Premier League,Medeama,Vision,4,0,Home
+1469213,2025-09-19 00:00:00+00:00,209,Schweizer Cup,Étoile Carouge,FC Basel 1893,2,2,Draw
+1464020,2025-09-19 00:00:00+00:00,225,Landesliga - Karnten,KAC,Nußdorf,2,4,Away
+1343965,2025-09-19 00:00:00+00:00,595,Division 2 - Södra Svealand,Syrianska Eskilstuna,Forward,2,0,Home
+1431546,2025-09-19 00:00:00+00:00,435,Primera División RFEF - Group 1,Ponferradina,Guadalajara,1,3,Away
+1335797,2025-09-19 00:00:00+00:00,367,Meistaradeildin,B68,NSI Runavik,1,3,Away
+1343214,2025-09-19 00:00:00+00:00,563,Ettan - Norra,Haninge,Stocksund,2,4,Away
+1343789,2025-09-19 00:00:00+00:00,592,Division 2 - Norra Götaland,Kongahälla,Lidköping,1,1,Draw
+1385833,2025-09-19 00:00:00+00:00,283,Liga I,FC Botosani,FCSB,3,1,Home
+1405822,2025-09-19 00:00:00+00:00,751,Oberliga - Niederrhein,Kleve,BW Dingden,3,4,Away
+1405824,2025-09-19 00:00:00+00:00,751,Oberliga - Niederrhein,Schonnebeck,SC St. Tönis,0,2,Away
+1406728,2025-09-19 00:00:00+00:00,754,Oberliga - Nordost-Nord,Tasmania Berlin,BAK '07,3,1,Home
+1407231,2025-09-19 00:00:00+00:00,750,Oberliga - Hessen,1960 Hanau,Kassel,1,1,Draw
+1409514,2025-09-19 00:00:00+00:00,938,Oberliga - Bayern Nord,Weiden,Würzburger FV,3,1,Home
+1411974,2025-09-19 00:00:00+00:00,747,Oberliga - Westfalen,Rot Weiss Ahlen,Preußen Münster II,0,4,Away
+1413204,2025-09-19 00:00:00+00:00,749,Oberliga - Bremen,Vatan Sport,Oberneuland,2,1,Home
+1417936,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,Donau,Leobendorf,0,2,Away
+1417937,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,SV Horn,Union Mauer,6,0,Home
+1417938,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,Krems / Rehberg,Traiskirchen,3,3,Draw
+1417940,2025-09-19 00:00:00+00:00,221,Regionalliga - Ost,TWL Elektra,Retz,2,3,Away
+1422857,2025-09-19 00:00:00+00:00,63,National 1,Aubagne,Versailles,1,1,Draw
+1422858,2025-09-19 00:00:00+00:00,63,National 1,Bourg-en-bresse 01,Quevilly,0,3,Away
+1422859,2025-09-19 00:00:00+00:00,63,National 1,Caen,Valenciennes,0,0,Draw
+1422860,2025-09-19 00:00:00+00:00,63,National 1,Concarneau,Fleury 91,0,1,Away
+1422861,2025-09-19 00:00:00+00:00,63,National 1,Gobelins,Chateauroux,1,1,Draw
+1422862,2025-09-19 00:00:00+00:00,63,National 1,Rouen,Orleans,1,0,Home
+1422863,2025-09-19 00:00:00+00:00,63,National 1,Stade Briochin,Le Puy Foot,1,2,Away
+1422864,2025-09-19 00:00:00+00:00,63,National 1,Villefranche,Sochaux,1,0,Home
+1423957,2025-09-19 00:00:00+00:00,63,National 1,Ajaccio,Dijon,,,
+1425195,2025-09-19 00:00:00+00:00,69,National 2 - Group C,Istres,Andrézieux,1,1,Draw
+1425199,2025-09-19 00:00:00+00:00,69,National 2 - Group C,Saint-Priest,Creteil,1,0,Home
+1425438,2025-09-19 00:00:00+00:00,68,National 2 - Group B,Colmar,Epinal,0,3,Away
+1425674,2025-09-19 00:00:00+00:00,67,National 2 - Group A,Avranches,Poitiers,4,0,Home
+1425676,2025-09-19 00:00:00+00:00,67,National 2 - Group A,Bayonne,Chauray,2,0,Home
+1436813,2025-09-19 00:00:00+00:00,172,First League,Levski Sofia,Ludogorets,0,0,Draw
+1444706,2025-09-19 00:00:00+00:00,518,Reserve Pro League,Waasland-Beveren U21,Patro Eisden U21,0,1,Away
+1457467,2025-09-19 00:00:00+00:00,387,League,Al Faisaly,Al Buqa'a,4,2,Home
+1463759,2025-09-19 00:00:00+00:00,224,Landesliga - Burgenland,Siegendorf,Kohfidisch,1,2,Away
+1463765,2025-09-19 00:00:00+00:00,224,Landesliga - Burgenland,Deutschkreutz,St. Margarethen / Bur,3,3,Draw
+1464243,2025-09-19 00:00:00+00:00,226,Landesliga - Niederosterreich,Langenrohr,Admira II,3,3,Draw
+1464245,2025-09-19 00:00:00+00:00,226,Landesliga - Niederosterreich,Korneuburg,St. Peter,,,
+1464492,2025-09-19 00:00:00+00:00,227,Landesliga - Oberosterreich,Ostermiething,Friedburg / Pöndorf,2,2,Draw
+1465186,2025-09-19 00:00:00+00:00,230,Landesliga - Tirol,Kundl,Kematen,6,1,Home
+1467387,2025-09-19 00:00:00+00:00,542,Iraqi League,Zakho,Al Quwa Al Jawiya,2,1,Home
+1395889,2025-09-19 00:00:00+00:00,109,II Liga - East,Stal Stalowa Wola,ŁKS Łódź II,1,1,Draw
+1374949,2025-09-19 00:00:00+00:00,1114,Carioca U20,Volta Redonda U20,Vasco da Gama U20,1,5,Away
+1380210,2025-09-19 00:00:00+00:00,271,NB I,Ferencvarosi TC,Diosgyori VTK,2,2,Draw
+1380912,2025-09-19 00:00:00+00:00,88,Eredivisie,Sparta Rotterdam,Twente,1,5,Away
+1381974,2025-09-19 00:00:00+00:00,89,Eerste Divisie,ADO Den Haag,Almere City FC,2,1,Home
+1381975,2025-09-19 00:00:00+00:00,89,Eerste Divisie,FC Eindhoven,FC OSS,3,4,Away
+1381976,2025-09-19 00:00:00+00:00,89,Eerste Divisie,Emmen,Dordrecht,2,0,Home
+1381977,2025-09-19 00:00:00+00:00,89,Eerste Divisie,Roda,Waalwijk,1,4,Away
+1381978,2025-09-19 00:00:00+00:00,89,Eerste Divisie,Willem II,Jong Ajax,1,0,Home
+1389165,2025-09-19 00:00:00+00:00,62,Ligue 2,Dunkerque,Le Mans,2,2,Draw
+1389167,2025-09-19 00:00:00+00:00,62,Ligue 2,Rodez,Clermont Foot,0,1,Away
+1389169,2025-09-19 00:00:00+00:00,62,Ligue 2,Laval,Amiens,0,3,Away
+1389171,2025-09-19 00:00:00+00:00,62,Ligue 2,Boulogne,PAU,0,3,Away
+1389172,2025-09-19 00:00:00+00:00,62,Ligue 2,Nancy,RED Star FC 93,0,1,Away
+1389173,2025-09-19 00:00:00+00:00,62,Ligue 2,Grenoble,Annecy,1,3,Away
+1392587,2025-09-19 00:00:00+00:00,145,Challenger Pro League,Lierse Kempenzonen,RWDM,2,0,Home
+1392588,2025-09-19 00:00:00+00:00,145,Challenger Pro League,Lommel United,KRC Genk II,1,2,Away
+1394803,2025-09-19 00:00:00+00:00,506,2. liga,Dukla Banská Bystrica,Šamorín,3,1,Home
+1417081,2025-09-19 00:00:00+00:00,699,Women's Championship,Sunderland W,Durham W,2,1,Home
+1424942,2025-09-19 00:00:00+00:00,746,Oberliga - Mittelrhein,Düren Merzenich,Hennef 05,2,0,Home
+1434343,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,West Ham United U21,Birmingham City U21,3,0,Home
+1434344,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,Leicester City U21,Tottenham Hotspur U21,3,6,Away
+1434345,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,Southampton U21,Burnley U21,2,1,Home
+1434346,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,Fulham U21,West Bromwich Albion U21,2,0,Home
+1434348,2025-09-19 00:00:00+00:00,702,Premier League 2 Division One,Brighton U21,Derby County U21,3,1,Home
+1435936,2025-09-19 00:00:00+00:00,307,Pro League,Al-Ahli Jeddah,Al-Hilal Saudi FC,3,3,Draw
+1444707,2025-09-19 00:00:00+00:00,518,Reserve Pro League,RWDM U21,Lommel U21,3,0,Home
+1444708,2025-09-19 00:00:00+00:00,518,Reserve Pro League,Francs Borains U21,RFC de Liege U21,4,3,Home
+1444709,2025-09-19 00:00:00+00:00,518,Reserve Pro League,RFC Seraing Reserve U21,Lierse K. U21,4,1,Home
+1462566,2025-09-19 00:00:00+00:00,454,Tercera División RFEF - Group 16,Yagüe,Peña Balsamaiso,4,0,Home
+1462568,2025-09-19 00:00:00+00:00,454,Tercera División RFEF - Group 16,Villegas,Agoncillo,0,0,Draw
+1462569,2025-09-19 00:00:00+00:00,454,Tercera División RFEF - Group 16,Varea,Autol,3,2,Home
+1464242,2025-09-19 00:00:00+00:00,226,Landesliga - Niederosterreich,Ebreichsdorf,Schrems,5,0,Home
+1469229,2025-09-19 00:00:00+00:00,96,Taça de Portugal,AD Marco 09,O Elvas,1,0,Home
+1470049,2025-09-19 00:00:00+00:00,761,Cup,Ruggell III,Vaduz III,3,7,Away
+1470052,2025-09-19 00:00:00+00:00,269,Segunda División,La Luz,Rampla Juniors,1,1,Draw
+1470165,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Corinthians U20,Santos U20,0,0,Draw
+1470166,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Oeste U20,São Paulo U20,0,0,Draw
+1470167,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Botafogo SP U20,RB Bragantino U20,2,0,Home
+1470168,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Ponte Preta U20,Ituano U20,1,1,Draw
+1470169,2025-09-19 00:00:00+00:00,1086,Paulista - U20,Gremio Prudente U20,Guarani U20,0,3,Away
+1470170,2025-09-19 00:00:00+00:00,1086,Paulista - U20,União Suzano U20,EC São Bernardo U20,1,0,Home
+1380459,2025-09-19 00:00:00+00:00,106,Ekstraklasa,Wisla Plock,Jagiellonia,0,1,Away
+1381607,2025-09-19 00:00:00+00:00,107,I Liga,Stal Mielec,Pogoń Grod. Mazowiecki,1,2,Away
+1385658,2025-09-19 00:00:00+00:00,131,Primera B Metropolitana,Villa Dalmine,Fénix,1,0,Home
+1388342,2025-09-19 00:00:00+00:00,78,Bundesliga,VfB Stuttgart,FC St. Pauli,2,0,Home
+1391307,2025-09-19 00:00:00+00:00,141,Segunda División,Deportivo La Coruna,Huesca,4,0,Home
+1391675,2025-09-19 00:00:00+00:00,219,2. Liga,First Vienna,Austria Klagenfurt,0,2,Away
+1417212,2025-09-19 00:00:00+00:00,44,FA WSL,Everton W,London City Lionesses,1,2,Away
+1417213,2025-09-19 00:00:00+00:00,44,FA WSL,Tottenham Hotspur W,Manchester City W,1,5,Away
+1439398,2025-09-19 00:00:00+00:00,942,Serie C - Girone B,Rimini,Forli,1,0,Home
+1439399,2025-09-19 00:00:00+00:00,942,Serie C - Girone B,Arezzo,Guidonia Montecelio 1937,0,1,Away
+1439400,2025-09-19 00:00:00+00:00,942,Serie C - Girone B,Pontedera,Campobasso FC,0,4,Away
+1439401,2025-09-19 00:00:00+00:00,942,Serie C - Girone B,Ravenna,Perugia,3,2,Home
+1440718,2025-09-19 00:00:00+00:00,518,Reserve Pro League,RAAL La Louviere U21,Westerlo U21,4,1,Home
+1452054,2025-09-19 00:00:00+00:00,1138,Paranaense - 3,Araucária,Hope Internacional,,,
+1462572,2025-09-19 00:00:00+00:00,454,Tercera División RFEF - Group 16,San Marcial,UD Logroñés II,1,2,Away
+1470189,2025-09-19 00:00:00+00:00,518,Reserve Pro League,Kortrijk U21,K. Beerschot V.A. Reserve U21,3,1,Home
+1470976,2025-09-19 00:00:00+00:00,112,Welsh Cup,Afan Lido,Evans & Williams,3,2,Home
+1324487,2025-09-19 00:00:00+00:00,358,First Division,Bray Wanderers,Finn Harps,3,2,Home
+1324488,2025-09-19 00:00:00+00:00,358,First Division,Treaty United,Athlone Town,3,2,Home
+1324489,2025-09-19 00:00:00+00:00,358,First Division,UCD,Kerry,2,1,Home
+1324490,2025-09-19 00:00:00+00:00,358,First Division,Wexford,Cobh Ramblers,3,2,Home
+1340671,2025-09-19 00:00:00+00:00,357,Premier Division,Bohemians,Waterford,2,1,Home
+1340672,2025-09-19 00:00:00+00:00,357,Premier Division,Cork City,Shamrock Rovers,1,1,Draw
+1340673,2025-09-19 00:00:00+00:00,357,Premier Division,Derry City,Shelbourne,1,1,Draw
+1340674,2025-09-19 00:00:00+00:00,357,Premier Division,St Patrick's Athl.,Galway United,1,1,Draw
+1340675,2025-09-19 00:00:00+00:00,357,Premier Division,Sligo Rovers,Drogheda United,1,1,Draw
+1377899,2025-09-19 00:00:00+00:00,135,Serie A,Lecce,Cagliari,1,2,Away
+1382482,2025-09-19 00:00:00+00:00,144,Jupiler Pro League,Gent,Dender,3,0,Home
+1382898,2025-09-19 00:00:00+00:00,180,Championship,ST Johnstone,Dunfermline,2,1,Home
+1385173,2025-09-19 00:00:00+00:00,408,Premiership,Portadown,Bangor,1,4,Away
+1385174,2025-09-19 00:00:00+00:00,408,Premiership,Coleraine FC,Glentoran,1,2,Away
+1387738,2025-09-19 00:00:00+00:00,61,Ligue 1,Lyon,Angers,1,0,Home
+1401058,2025-09-19 00:00:00+00:00,110,Premier League,Bala Town,Briton Ferry,2,2,Draw
+1405103,2025-09-19 00:00:00+00:00,731,Football League - Lowland League,Celtic II,Caledonian Braves,1,1,Draw
+1405104,2025-09-19 00:00:00+00:00,731,Football League - Lowland League,East Stirlingshire,Linlithgow Rose,0,1,Away
+1423758,2025-09-19 00:00:00+00:00,110,Premier League,Cardiff MET,The New Saints,1,3,Away
+1438970,2025-09-19 00:00:00+00:00,185,League Cup,Kilmarnock,ST Mirren,2,2,Draw
+1466809,2025-09-19 00:00:00+00:00,47,FA Trophy,Bridlington Town,North Ferriby,2,0,Home
+1466827,2025-09-19 00:00:00+00:00,47,FA Trophy,Stalybridge Celtic,Lower Breck,0,3,Away
+1466831,2025-09-19 00:00:00+00:00,47,FA Trophy,Biggleswade,Hitchin Town,3,1,Home
+1386618,2025-09-19 00:00:00+00:00,40,Championship,Middlesbrough,West Brom,2,1,Home
+1390861,2025-09-19 00:00:00+00:00,140,La Liga,Real Betis,Real Sociedad,3,1,Home
+1419630,2025-09-19 00:00:00+00:00,136,Serie B,Palermo,Bari,2,0,Home
+1421533,2025-09-19 00:00:00+00:00,64,Feminine Division 1,Marseille W,Le Havre W,1,2,Away
+1422721,2025-09-19 00:00:00+00:00,186,Ligue 1,MB Rouisset,ES Setif,3,0,Home
+1434613,2025-09-19 00:00:00+00:00,758,Premier Division,Magpies,St Joseph S Fc,0,2,Away
+1466644,2025-09-19 00:00:00+00:00,200,Botola Pro,Yacoub El Mansour,Wydad AC,1,1,Draw
+1470981,2025-09-19 00:00:00+00:00,112,Welsh Cup,Broughton United FC,Welshpool Town,1,1,Draw
+1396286,2025-09-19 00:00:00+00:00,94,Primeira Liga,Rio Ave,FC Porto,0,3,Away
+1417386,2025-09-19 00:00:00+00:00,404,Campionato,Cosmos,Domagnano,0,0,Draw
+1417389,2025-09-19 00:00:00+00:00,404,Campionato,Libertas,Cailungo,0,1,Away
+1417390,2025-09-19 00:00:00+00:00,404,Campionato,Pennarossa,Virtus,0,3,Away
+1430846,2025-09-19 00:00:00+00:00,815,Fotbolti.net Cup A,Tindastóll,Kormákur / Hvöt,3,1,Home
+1396892,2025-09-19 00:00:00+00:00,252,Division Profesional - Clausura,General Caballero,Sportivo Luqueno,5,2,Home
+1431165,2025-09-19 00:00:00+00:00,436,Primera División RFEF - Group 2,Real Murcia,Villarreal II,1,1,Draw
+1374191,2025-09-19 00:00:00+00:00,128,Liga Profesional Argentina,Deportivo Riestra,Gimnasia L.P.,1,0,Home
+1430739,2025-09-19 00:00:00+00:00,759,Liga Mayor,Delfines Del Este,Cibao,1,2,Away
+1457492,2025-09-19 00:00:00+00:00,240,Primera B,Real Soacha,Quindio,3,1,Home
+1353528,2025-09-19 00:00:00+00:00,72,Serie B,Novorizontino,Athletic Club,1,0,Home
+1374189,2025-09-19 00:00:00+00:00,128,Liga Profesional Argentina,Huracan,Racing Club,0,2,Away
+1396888,2025-09-19 00:00:00+00:00,252,Division Profesional - Clausura,Olimpia,Sportivo Trinidense,1,1,Draw
+1442453,2025-09-19 00:00:00+00:00,872,Liga Premier Serie B,CDM,Artesanos Metepec,,,
+1374193,2025-09-19 00:00:00+00:00,128,Liga Profesional Argentina,San Martin S.J.,Velez Sarsfield,1,2,Away
+1453358,2025-09-19 00:00:00+00:00,1036,Copa Santa Catarina,Caravaggio,Camboriú,2,0,Home
+1327257,2025-09-19 00:00:00+00:00,255,USL Championship,Miami FC,Rhode Island,0,1,Away
+1345646,2025-09-19 00:00:00+00:00,909,MLS Next Pro,Sporting KC II,Vancouver Whitecaps II,2,2,Draw
+1345647,2025-09-19 00:00:00+00:00,909,MLS Next Pro,Toronto II,Columbus Crew II,0,0,Draw
+1380813,2025-09-19 00:00:00+00:00,673,Liga MX Femenil,Querétaro W,Pumas UNAM W,2,1,Home
+1385657,2025-09-19 00:00:00+00:00,131,Primera B Metropolitana,Argentino Quilmes,Deportivo Laferrere,0,0,Draw
+1392456,2025-09-19 00:00:00+00:00,239,Primera A,Bucaramanga,Deportes Tolima,2,0,Home
+1416478,2025-09-19 00:00:00+00:00,263,Liga de Expansión MX,Tapatío,Correcaminos Uat,2,2,Draw
+1442456,2025-09-19 00:00:00+00:00,872,Liga Premier Serie B,Poza Rica,Caja Oblatos CFD,2,1,Home
+1446893,2025-09-19 00:00:00+00:00,300,Segunda División,Dinamo de Puerto La Cruz,Mineros de Guyana,3,2,Home
+1457292,2025-09-19 00:00:00+00:00,270,Primera División - Clausura,Defensor Sporting,Danubio,2,1,Home
+1469018,2025-09-19 00:00:00+00:00,344,Primera División,Aurora,Real Tomayapo,1,2,Away
+1470190,2025-09-19 00:00:00+00:00,742,Copa Paulista,Comercial,XV de Piracicaba,1,1,Draw
