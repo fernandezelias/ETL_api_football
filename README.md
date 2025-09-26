@@ -87,7 +87,7 @@ Todas estas opciones llaman al mismo flow definido en `scripts/etl_fixtures.py`.
 
 ## 📊 Resultados esperados
 - Acumulación de **fixtures históricos** con ingesta incremental.  
-- Tablas limpias de ligas, copas, países, equipos y partidos.  
+- Tablas limpias de **ligas, copas, países, equipos y partidos**.  
 - Capa Gold lista para dashboards y análisis exploratorio.
 
 ---
