@@ -179,3 +179,20 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# --- Proyecto ETL_API_Football ---
+
+# Carpetas de datos locales (no se suben al repo)
+data/
+datalake/
+
+# Compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints
+
+# Configuración local / sensible
+pipeline.conf
