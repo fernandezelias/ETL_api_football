@@ -92,6 +92,11 @@ Todas estas opciones llaman al mismo flow definido en `scripts/etl_fixtures.py`.
 
 ---
 
+📄 Licencia
+Este proyecto está bajo la licencia MIT.
+
+---
+
 ✍️ Autor: Elias Fernández  
 📧 Contacto: fernandezelias86@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/eliasfernandez208
