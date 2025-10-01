@@ -1,5 +1,6 @@
 # Librerías estándar
 from datetime import datetime, timedelta
+from pprint import pprint
 
 # Librerías externas
 import requests
